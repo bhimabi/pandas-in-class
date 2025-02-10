@@ -1,7 +1,3 @@
-
-
-
-
 1. Write an expression to find the Per Capita GDP of Serbia in 2007.
 
 2. Explain what each line in the following short program does: 
